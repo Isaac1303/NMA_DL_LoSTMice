@@ -28,10 +28,10 @@ Download link:
 https://drive.google.com/file/d/1lr2oy19n4KiirtvtXd96DAF0t0_EWM63/view?usp=sharing
 
 ## Collaborators
-Abu Mohammed - Heriot Watt University 
-Isaac Thu - University of Washington Seattle
-Keming Liu - Wesleyan University
-Iyad Ba Gari - Univeristy of Southern California
+- Abu Mohammed - Heriot Watt University 
+- Isaac Thu - University of Washington Seattle
+- Keming Liu - Wesleyan University
+- Iyad Ba Gari - Univeristy of Southern California
 
 ## Status
 Project completed as part of Neuromatch — no further development planned.
